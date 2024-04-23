@@ -6,7 +6,7 @@ const hey = {
   linkdin: "Anshul-exe",
 };
 
-console.log("hey");
+console.log("hey yoo");
 // lecture notes starts from below
 /*console.log("hey2");
 alert("haha")*/
@@ -35,7 +35,7 @@ a += 4; //now 6+4 = 10 as a was 6
 console.log(a);
 console.log("a==b", a == b);
 console.log("a==10", a == 10);
-console.log("a>b", a >= b);
+console.log("a > b", a >= b);
 console.log("a is not equal to b", a != b);
 console.log("a=", a, "b=", b);
 let d = "5";
