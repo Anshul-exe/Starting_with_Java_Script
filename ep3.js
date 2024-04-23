@@ -34,11 +34,11 @@ let i = 1;
  //FOR-IN LOOP
  let student = {
   name: "Anshul Singh Chauhan",
-  age: 20,
+  age: 19,
   cgpa: 7.5,
   isPass: true
  };
  for (let key in student) {
   console.log(key)
  }
- console.log("hey");
+ console.log("heyyy heyy");
